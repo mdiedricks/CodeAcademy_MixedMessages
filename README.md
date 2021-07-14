@@ -17,6 +17,6 @@ This is all this project will ever be.
 I don't intend on expanding on it, but I might come back for a chuckle every now and then.
 
 ## Launch
-Non installation required. Just run it.
+No installation required. Just clone and run.
 
 ```node index.js```
